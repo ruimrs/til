@@ -10,3 +10,8 @@
 
 
 # [THREE JS](https://github.com/ruimrs/til/tree/main/three-js)
+
+# [RXJS](https://github.com/ruimrs/til/tree/main/rxjs)
+
+- [take](https://github.com/ruimrs/til/tree/main/rxjs/take)
+- [throttletime](https://github.com/ruimrs/til/tree/main/rxjs/throttle-time)
