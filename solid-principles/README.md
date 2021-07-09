@@ -36,3 +36,6 @@ SOLID:
 
     Módulos de alto nível não devem depender de módulos de baixo nível. 
     Ambos devem depender de abstrações; Abstrações não devem depender de detalhes.
+
+
+Reference: https://www.udemy.com/course/curso-design-patterns-typescript/
