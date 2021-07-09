@@ -13,5 +13,8 @@
 
 # [RXJS](https://github.com/ruimrs/til/tree/main/rxjs)
 
+- [filter](https://github.com/ruimrs/til/tree/main/rxjs/filter)
 - [take](https://github.com/ruimrs/til/tree/main/rxjs/take)
+- [takewhile](https://github.com/ruimrs/til/tree/main/rxjs/take-while)
 - [throttletime](https://github.com/ruimrs/til/tree/main/rxjs/throttle-time)
+
