@@ -18,3 +18,8 @@
 - [takewhile](https://github.com/ruimrs/til/tree/main/rxjs/take-while)
 - [throttletime](https://github.com/ruimrs/til/tree/main/rxjs/throttle-time)
 
+# [ANGULAR](https://github.com/ruimrs/til/tree/main/angular)
+
+- [animations](https://github.com/ruimrs/til/tree/main/angular/animations)
+- [template](https://github.com/ruimrs/til/tree/main/angular/template)
+
