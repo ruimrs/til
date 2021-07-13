@@ -1,0 +1,7 @@
+<main>
+  <section class="content">
+    <p>angular animations!</p>
+    <button type="submit" (click)="isToShow = !isToShow">click to see</button>
+    <div [@fadeInOut] *ngIf="isToShow" class="anim-section">it works!</div>
+  </section>
+</main>

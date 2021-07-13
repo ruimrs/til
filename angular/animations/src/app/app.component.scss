@@ -1,0 +1,19 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  button {
+    cursor: pointer;
+  }
+
+  .anim-section {
+    background-color: antiquewhite;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
