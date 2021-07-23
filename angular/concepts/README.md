@@ -6,3 +6,5 @@ to read and take notes:
 - https://medium.com/techmonks/angular-core-concepts-list-c337e3e84f5f
 - https://angular.io/guide/architecture
 - https://www.dottedsquirrel.com/things-to-learn-angular/
+
+módulo-> onde se faz a injeção/importação/declaração das dependências que são utilizados no componente
