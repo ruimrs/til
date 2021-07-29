@@ -21,5 +21,6 @@
 # [ANGULAR](https://github.com/ruimrs/til/tree/main/angular)
 
 - [animations](https://github.com/ruimrs/til/tree/main/angular/animations)
+- [concepts](https://github.com/ruimrs/til/tree/main/angular/concepts)
 - [template](https://github.com/ruimrs/til/tree/main/angular/template)
 
