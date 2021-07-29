@@ -7,4 +7,8 @@ to read and take notes:
 - https://angular.io/guide/architecture
 - https://www.dottedsquirrel.com/things-to-learn-angular/
 
-módulo-> onde se faz a injeção/importação/declaração das dependências que são utilizados no componente
+
+módulo-> onde se faz a injeção/importação/declaração das dependências que são utilizados no componente. A ideia principal do módulo é o de responsabilidade única, o que permite o lazy loading.
+
+lazy loading -> os módulos só são carregados quando são precisos em vez de serem logo quando a aplicação inicializa. Melhora a rapidez e a performance da aplicação.
+
