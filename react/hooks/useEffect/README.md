@@ -1,4 +1,5 @@
 runs when the component loads and after data updates (new renders) in the component
+
 useEffect(() => {
     console.log('Hello world!')
 });
@@ -6,6 +7,7 @@ useEffect(() => {
 -----
 
 only runs the function in the initial render of the component
+
 useEffect(() => {
     console.log('Hello world!')
 }, []);
