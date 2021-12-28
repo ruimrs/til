@@ -11,3 +11,7 @@ git push origin <branch> --force-with-lease : overwrites a remote branch with yo
 git reset --hard origin/<branch> : completely destroy any changes and remove them from the local branch   
   
   
+## new worktree
+  
+  to create a local worktree from a branch: git worktree add ../ui-main main
+  to remove it: git worktree remove ../ui-main
