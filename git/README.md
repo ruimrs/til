@@ -13,5 +13,5 @@ git reset --hard origin/<branch> : completely destroy any changes and remove the
   
 ## new worktree
   
-  to create a local worktree from a branch: git worktree add ../ui-main main
-  to remove it: git worktree remove ../ui-main
+  - to create a local worktree from a branch: git worktree add ../ui-main main
+  - to remove it: git worktree remove ../ui-main
