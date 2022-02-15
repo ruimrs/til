@@ -15,3 +15,8 @@ git reset --hard origin/<branch> : completely destroy any changes and remove the
   
 - to create a local worktree from a branch: git worktree add ../ui-main main
 - to remove it: git worktree remove ../ui-main
+
+## orphan branch (no parent)
+  - git checkout --orphan <branch>
+  - git rm -rf .
+  - add, commit and push changes
