@@ -20,3 +20,8 @@ git reset --hard origin/<branch> : completely destroy any changes and remove the
   - git checkout --orphan <branch>
   - git rm -rf .
   - add, commit and push changes
+
+## remove commits from remote
+
+git reset --hard commitHash
+git push origin main -f
