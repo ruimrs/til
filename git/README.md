@@ -23,5 +23,5 @@ git reset --hard origin/<branch> : completely destroy any changes and remove the
 
 ## remove commits from remote
 
-git reset --hard commitHash
-git push origin main -f
+  - git reset --hard commitHash
+  - git push origin main -f
